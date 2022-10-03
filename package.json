@@ -36,6 +36,7 @@
     "dot-env": "^0.0.1",
     "dotenv-webpack": "^8.0.1",
     "file-loader": "^6.2.0",
+    "fs": "^0.0.1-security",
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.6.1",
     "stylus": "^0.59.0",
